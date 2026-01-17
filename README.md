@@ -4,7 +4,7 @@
 This is an official implementation of 'Sparse Mixture-of-Experts Network with Modal Interaction for Multimodal Emotion Recognition' :fire:.
 
 <div  align="center"> 
-  <img src="https://github.com/Xudmm1239439/SMoENet/blob/main/SMoE.png" width=100% />
+  <img src="https://github.com/Xudmm1239439/SMoENet/blob/main/SMOE.png" width=100% />
 </div>
 
 
