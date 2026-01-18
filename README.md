@@ -69,6 +69,9 @@ yacs                  0.1.8
 zipp                  3.20.2
 ```
 
+### 2. Download Preprocessed Datasets
+Download the preprocessed datasets from [here](https://drive.google.com/drive/folders/1i5I0zPVOduyt0OLkBf3EOrU4geVHMXKj?usp=sharing), and put them into `data/`.
+
 ## Training
 ### 1. Run the model on IEMOCAP dataset:
 ```bash
