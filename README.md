@@ -70,6 +70,10 @@ zipp                  3.20.2
 ```
 
 ## Training
+### 1. Run the model on IEMOCAP dataset:
 ```bash
-python train.py
+python -u train.py --lr 0.0001 --batch-size 16 --epochs 150 --temp 1 --Dataset 'IEMOCAP' --int_gamma 0.00434 --topk 0.7 --seed 1479
+### 2. Run the model on MELD dataset:
+```bash
+python -u train.py --lr 0.000005 --batch-size 8 --epochs 50 --temp 8 --Dataset 'MELD' --int_gamma 0.056 --topk 0.96 --seed 2094
 ```
